@@ -139,7 +139,11 @@ npm run dev
 ⬜ Wishlist & reviews
 
 📸 Screenshots
+### 🏠 Home Page
+![Home Page](./screenshots/Home.png)
 
+### 🛒 Cart Page
+![Cart Page](./screenshots/cartPage.png)
 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements.
 
