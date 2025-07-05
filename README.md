@@ -145,10 +145,10 @@ npm run dev
 ### 🛒 Cart Page
 ![Cart Page](./screenshots/cartPage.png)
 
-🤝 Contributing
+🤝 Contributing  
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements.
 
-🙌 Acknowledgements
+🙌 Acknowledgements  
 Cloudinary
 
 Mongoose
