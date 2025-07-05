@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Classic T-Shirt",
+    "description": "A classic t-shirt made from 100% cotton.",
+    "price": 25.99,
+    "category": "Apparel",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Black", "White", "Gray"],
+    "imageUrl": "/images/classic-t-shirt.jpg",
+    "inStock": true
+  },
+  {
+    "name": "Running Shoes",
+    "description": "Lightweight and comfortable running shoes.",
+    "price": 89.99,
+    "category": "Footwear",
+    "sizes": ["8", "9", "10", "11", "12"],
+    "colors": ["Blue", "Red", "Green"],
+    "imageUrl": "/images/running-shoes.jpg",
+    "inStock": true
+  },
+  {
+    "name": "Leather Wallet",
+    "description": "A stylish and durable leather wallet.",
+    "price": 45.50,
+    "category": "Accessories",
+    "sizes": [],
+    "colors": ["Brown", "Black"],
+    "imageUrl": "/images/leather-wallet.jpg",
+    "inStock": false
+  },
+  {
+    "name": "Denim Jeans",
+    "description": "Modern slim-fit denim jeans.",
+    "price": 75.00,
+    "category": "Apparel",
+    "sizes": ["30/32", "32/32", "34/34"],
+    "colors": ["Dark Blue", "Light Blue"],
+    "imageUrl": "/images/denim-jeans.jpg",
+    "inStock": true
+  }
+]
